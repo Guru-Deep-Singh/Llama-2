@@ -4,9 +4,7 @@ import torch.nn.functional as F
 import math
 from dataclasses import dataclass
 from typing import Optional
-import sentencepiece
 import tqdm
-from triton.language import multiple_of
 
 # Note: This is a simplified version of the model, it only supports one token at a time, and it only supports the forward pass.
 # It support inference only. For training one needs to remove the KV cache and the freqs_complex.
