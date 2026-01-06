@@ -6,8 +6,8 @@
 
 
 
-![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.0+-ee4c2c.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.7+-ee4c2c.svg)
 ![Platform](https://img.shields.io/badge/platform-Ubuntu%2020.04-orange.svg)
 ![Status](https://img.shields.io/badge/status-inference%20ready-success.svg)
 
