@@ -2,14 +2,16 @@
 
 <div align="center">
   <img src="images/llama.png" alt="Llama Logo" width="400"/>
+
+
+  <br/>
+
+
+  ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-2.7+-ee4c2c.svg)
+  ![Platform](https://img.shields.io/badge/platform-Ubuntu%2020.04-orange.svg)
+  ![Status](https://img.shields.io/badge/status-inference%20ready-success.svg)
 </div>
-
-
-
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.7+-ee4c2c.svg)
-![Platform](https://img.shields.io/badge/platform-Ubuntu%2020.04-orange.svg)
-![Status](https://img.shields.io/badge/status-inference%20ready-success.svg)
 
 A clean, educational implementation of Llama-2 for inference, featuring a complete transformer architecture with key optimizations for efficient text generation.
 
@@ -125,7 +127,13 @@ Note: There is a variable "allow_cuda" which can be set to True to use GPU accel
   <img src="images/llama_architecture.png" alt="Llama Logo" width="400"/>
 </div>
 
+<div align="center">
+
+
 *Photo Credits to [Umar Jamil](https://github.com/hkproj/pytorch-llama/blob/main/Slides.pdf)*
+
+
+</div>
 
 ### Key Components
 
