@@ -121,6 +121,12 @@ Note: There is a variable "allow_cuda" which can be set to True to use GPU accel
 
 ## Model Architecture Details
 
+<div align="center">
+  <img src="images/llama_architecture.png" alt="Llama Logo" width="400"/>
+</div>
+
+*Photo Credits to [Umar Jamil](https://github.com/hkproj/pytorch-llama/blob/main/Slides.pdf)*
+
 ### Key Components
 
 1. **Transformer Block**: Each block consists of:
